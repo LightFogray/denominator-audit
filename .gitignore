@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Raw data: only the small public NYC boundary is tracked
+data/raw/*
+!data/raw/README.md
+!data/raw/nyc_taxi_zones.zip
+
+# LaTeX build products
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

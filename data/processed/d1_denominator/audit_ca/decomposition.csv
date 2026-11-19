@@ -1,0 +1,5 @@
+comparison,metric,total,denominator,coverage
+hybrid_vs_residential,poverty,4.762753491489802,4.762753491489802,0.0
+hybrid_vs_residential,captured,-16.936080295826727,-16.936080295826727,0.0
+naive_ambient_only_vs_residential,poverty,5.257543087342169,4.88993000555589,0.3676130817862795
+naive_ambient_only_vs_residential,captured,-16.617362211656978,-21.15337207254798,4.536009860891005
