@@ -39,4 +39,4 @@ All tables are CSV unless noted. Grid identifiers refer to the 1,246-cell Chicag
 | `audit_nyc_3m_acs2023_nonsat/decomposition.csv` | NYC non-saturated budget comparison |
 | `audit_london_imd/decomposition.csv` | London strategy comparison |
 
-The table CSVs used in the manuscript are in `docs/ASAP_manuscript/tables/`. `poverty` and `capture` are percentages or percentage-point differences as indicated by each table's caption.
+The table CSVs used in the manuscript are in `data/processed/d1_denominator/`. `poverty` and `capture` are percentages or percentage-point differences as indicated by each table's caption.
